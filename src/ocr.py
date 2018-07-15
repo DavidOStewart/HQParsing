@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 # import the necessary packages
 from PIL import Image
 
